@@ -1,0 +1,15 @@
+install composer
+install node.js
+
+create laravel project 
+
+npm 
+
+create file : resources\views\layouts\master.blade.php
+
+copy all code from : AdminLTE-2.4.2\starter.html to prev file.
+
+delete script & style 
+
+insert scritp & style by @blade
+

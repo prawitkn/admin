@@ -143,7 +143,6 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
               <div class="menu-info">
                 <h4 class="control-sidebar-subheading">Langdon's Birthday</h4>
-
                 <p>Will be 23 on April 24th</p>
               </div>
             </a>
